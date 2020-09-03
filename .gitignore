@@ -1,1 +1,4 @@
 /antlrexperiments/calculator/gen/
+/antlrexperiments/calculator/target
+*.class
+
