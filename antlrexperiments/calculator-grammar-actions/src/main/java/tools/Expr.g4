@@ -2,7 +2,7 @@ grammar Expr;
 
 @header {
 package tools;
-import java.util.*;
+import java.util.*; a   
 }
 
 @parser::members {
